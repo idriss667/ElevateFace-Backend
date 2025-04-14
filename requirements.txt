@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+requests
+python-jose[cryptography]
+passlib[bcrypt]
+Pillow
+numpy
+opencv-python
+scikit-learn
+stripe
+email-validator
+aiofiles
